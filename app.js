@@ -9,6 +9,10 @@ var user = require('./routes/user');
 var http = require('http');
 var path = require('path');
 
+//db init TODO re
+
+
+//app
 var app = express();
 
 // all environments
